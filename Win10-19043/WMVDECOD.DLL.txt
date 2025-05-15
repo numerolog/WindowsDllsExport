@@ -1,6 +1,0 @@
-CreateInstance
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-GetVC1DecoderFunctionTable

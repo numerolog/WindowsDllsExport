@@ -1,3 +1,0 @@
-CreatePasswordProviderWrapperInstance
-DllCanUnloadNow
-DllGetClassObject

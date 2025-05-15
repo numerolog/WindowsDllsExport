@@ -1,7 +1,0 @@
-CreateHolographicCompositor
-DwmInitializeEngine
-DwmInitializePort
-DwmRenderDesktopForDDA
-DwmShutdownEngine
-DwmVersionCheck
-GetMPCInputPostProcessor

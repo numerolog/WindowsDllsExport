@@ -1,8 +1,0 @@
-GetLicensingTelemetryCommonData
-InitRDLSTelemetryCommonData
-LogRDLSSettingsTelemetryData
-LogTSLSTelemetryEvent
-LogTSLSTelemetryRDSEvent
-RegisterAndEnableLicensingTelemetry
-UnregisterLicensingTelemetry
-UpdateRDLSTelemetryCommonData

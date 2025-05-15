@@ -1,3 +1,0 @@
-DestroyAppXHelper
-GetInstanceOfAppXPackageManager
-InitializeAppXHelper

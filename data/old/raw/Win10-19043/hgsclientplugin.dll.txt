@@ -1,0 +1,3 @@
+GetPluginVersion
+InitializeAttestationPlugin
+UninitializeAttestationPlugin

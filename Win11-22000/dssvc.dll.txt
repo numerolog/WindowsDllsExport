@@ -1,5 +1,0 @@
-DSSCreateSharedFileTokenEx
-DSSFreeToken
-InitializeService
-ServiceMain
-SvchostPushServiceGlobals

@@ -1,5 +1,0 @@
-CreateAndSetCoreAppModel
-CreateWindowInformation
-CreateWindowLayout
-DllGetActivationFactory
-DllGetClassObject

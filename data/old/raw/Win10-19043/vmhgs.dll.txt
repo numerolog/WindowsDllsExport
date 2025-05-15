@@ -1,0 +1,6 @@
+HgsCreateKeyProtector
+HgsDecryptDataWithKeyProtector
+HgsEncryptDataWithKeyProtector
+HgsIssueCertificate
+HgsUnwrapKeyProtector
+HgsUsingLocalService

@@ -1,3 +1,0 @@
-TetheringManagerDeinit
-TetheringManagerInit
-TetheringManagerNotify

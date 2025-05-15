@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllMain
-GetDefaultProfileScan
-GetImageDialog
-ProfilesDialog
-ProgDlgTakeFgIfShowing

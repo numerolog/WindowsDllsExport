@@ -1,6 +1,0 @@
-InitializeProtocolEngine
-InitializeServerProtocolEngine
-SendMessageToProtocolEngine
-UninitializeProtocolEngine
-UninitializeServerProtocolEngine
-VpnIkeRoamToBestCostInterface

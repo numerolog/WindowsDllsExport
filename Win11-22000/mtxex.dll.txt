@@ -1,4 +1,0 @@
-DllGetClassObject
-GetObjectContext
-MTSCreateActivity
-SafeRef

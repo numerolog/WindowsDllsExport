@@ -1,5 +1,0 @@
-PolicyManagerTranslationProxy_GetPolicyValue
-PolicyManagerTranslationProxy_SetPolicyValue
-PolicyManager_Apply
-PolicyManager_PostApply
-PolicyManager_PreCheck

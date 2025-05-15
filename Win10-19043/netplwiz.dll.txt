@@ -1,7 +1,0 @@
-ClearAutoLogon
-DllCanUnloadNow
-DllGetClassObject
-NetAccessWizard
-NetPlacesWizardDoModal
-SHDisconnectNetDrives
-UsersRunDllW

@@ -1,0 +1,15 @@
+CreateString
+CreateXamlUIPresenter
+DeleteString
+DisableDeferredInvoke
+DllCanUnloadNow
+DllGetActivationFactory
+DllMain
+GetDependencyObjectAddress
+GetErrorContextIndex
+GetGlobalModuleParams
+GetStringLen
+GetStringRawBuffer
+InitializeXamlDiagnosticsEx
+OverrideXamlMetadataProvider
+OverrideXamlResourcePropertyBag

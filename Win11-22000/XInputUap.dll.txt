@@ -1,8 +1,0 @@
-DllMain
-XInputEnable
-XInputGetAudioDeviceIds
-XInputGetBatteryInformation
-XInputGetCapabilities
-XInputGetKeystroke
-XInputGetState
-XInputSetState

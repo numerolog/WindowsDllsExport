@@ -1,2 +1,0 @@
-CreateHardwareEventMoniker
-HardwareDetectionServiceMain

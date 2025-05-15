@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-LLTDCreateEnumerator
-LLTDCreateMapFromXML
-LLTDCreateMapper
-LLTDCreateNode

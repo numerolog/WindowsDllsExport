@@ -1,0 +1,7 @@
+VTpmColdInitWithPersistentState
+VTpmExecuteCommand
+VTpmGetRuntimeState
+VTpmSetCancelFlag
+VTpmSetTargetVersion
+VTpmShutdown
+VTpmWarmInit

@@ -1,3 +1,0 @@
-Dot11ExtIhvGetVersionInfo
-Dot11ExtIhvInitService
-Dot11ExtIhvInitVirtualStation

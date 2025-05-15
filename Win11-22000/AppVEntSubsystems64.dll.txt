@@ -1,6 +1,0 @@
-APIExportForDetours
-CurrentThreadIsVirtualized
-IsProcessHooked
-RequestUnhookedFunctionList
-VirtualizeCurrentProcess
-VirtualizeCurrentThread

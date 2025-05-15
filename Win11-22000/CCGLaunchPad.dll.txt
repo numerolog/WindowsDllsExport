@@ -1,4 +1,0 @@
-CCGCleanup
-CCGInitialize
-CCGLaunch
-CCGTeardown

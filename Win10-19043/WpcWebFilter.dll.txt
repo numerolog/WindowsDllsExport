@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-WpcWebFilterCreate
-WpcWebFilterDestroy
-WpcWebFilterGet

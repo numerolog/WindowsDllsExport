@@ -1,3 +1,0 @@
-GetTenantRestrictionsHostnames
-HttpPolicyExtensionInit
-HttpPolicyExtensionShutdown

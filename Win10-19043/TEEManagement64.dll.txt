@@ -1,9 +1,0 @@
-TEE_CloseSDSession
-TEE_DEALLOC
-TEE_ListInstalledSDs
-TEE_ListInstalledTAs
-TEE_OpenSDSession
-TEE_ProvisionOemMasterKey
-TEE_QueryTEEMetadata
-TEE_SendAdminCmdPkg
-TEE_SetTAEncryptionKey

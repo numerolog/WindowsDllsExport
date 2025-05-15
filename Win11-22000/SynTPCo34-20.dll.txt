@@ -1,4 +1,0 @@
-HIDDeviceInstall
-PS2DeviceInstall
-SerDeviceInstall
-USBDeviceInstall

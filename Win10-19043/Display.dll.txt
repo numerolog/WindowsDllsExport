@@ -1,4 +1,0 @@
-DisplaySaveSettingsEx
-DllCanUnloadNow
-DllGetClassObject
-ShowAdapterSettings

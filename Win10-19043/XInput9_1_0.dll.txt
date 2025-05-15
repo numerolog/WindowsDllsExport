@@ -1,5 +1,0 @@
-DllMain
-XInputGetCapabilities
-XInputGetDSoundAudioDeviceGuids
-XInputGetState
-XInputSetState

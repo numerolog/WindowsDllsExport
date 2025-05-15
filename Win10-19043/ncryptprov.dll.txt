@@ -1,3 +1,0 @@
-GetKeyStorageInterface
-SKCacheFlush
-SetAuditingInterface

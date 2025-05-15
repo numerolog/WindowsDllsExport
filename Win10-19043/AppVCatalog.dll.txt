@@ -1,5 +1,0 @@
-Deinitialize
-GetClientCatalog
-GetComponent
-Initialize
-InitializeISV

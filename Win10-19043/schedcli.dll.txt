@@ -1,4 +1,0 @@
-NetScheduleJobAdd
-NetScheduleJobDel
-NetScheduleJobEnum
-NetScheduleJobGetInfo

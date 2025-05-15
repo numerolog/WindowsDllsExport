@@ -1,5 +1,0 @@
-CloseLayoutPolicyCheckerInstance
-GetAllDefaultApps
-GetDefaultAppsList
-GetLayoutPolicy
-GetLayoutPolicyCheckerInstance

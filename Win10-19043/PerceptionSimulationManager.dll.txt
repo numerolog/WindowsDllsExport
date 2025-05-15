@@ -1,6 +1,0 @@
-CreatePerceptionSimulationManager
-CreatePerceptionSimulationRecording
-GetControlMode
-GetIsUsingDriver
-LoadPerceptionSimulationRecording
-SetControlMode

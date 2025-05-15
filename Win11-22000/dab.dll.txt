@@ -1,5 +1,0 @@
-DabInitialize
-DabNotifyPowerEvent
-DabNotifySessionChange
-DabNotifyTimeChange
-DabTerminate

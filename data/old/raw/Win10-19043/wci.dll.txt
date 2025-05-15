@@ -1,0 +1,11 @@
+WcDetachFilter
+WcRemoveReparseData
+WcRemoveTombstoneReparseData
+WciConfigureVolume
+WciGetUnions
+WciReadReparsePointData
+WciRemoveRoot
+WciSetReparsePointData
+WciSetReparsePointDataEx
+WciSetTombstone
+WciSetupFilter

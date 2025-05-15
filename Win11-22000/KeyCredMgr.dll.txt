@@ -1,4 +1,0 @@
-KeyCredentialManagerFreeInformation
-KeyCredentialManagerGetInformation
-KeyCredentialManagerGetOperationErrorStates
-KeyCredentialManagerShowUIOperation

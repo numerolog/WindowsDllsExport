@@ -1,3 +1,0 @@
-CloseOSObject
-CollectOSObjectData
-OpenOSObject

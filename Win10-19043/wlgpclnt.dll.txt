@@ -1,4 +1,0 @@
-GenerateWLANPolicy
-ProcessWLANPolicyEx
-WLGPADeInit
-WLGPAInit

@@ -1,5 +1,0 @@
-DllAddRef
-DllCanUnloadNow
-DllGetClassObject
-DllMain
-DllRelease

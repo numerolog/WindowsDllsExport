@@ -1,6 +1,0 @@
-NetDriverInstallClose
-NetDriverInstallCommit
-NetDriverInstallInitialize
-NetDriverInstallProcessAdditions
-NetDriverInstallProcessRemovals
-NetDriverInstallSync

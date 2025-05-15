@@ -1,5 +1,0 @@
-CleanupUDSGlobals
-CreateInprocConnectionHandle
-ServiceMain
-SvchostPushServiceGlobals
-TeardownInprocConnectionHandle

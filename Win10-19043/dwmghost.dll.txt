@@ -1,4 +1,0 @@
-DWMGhostCleanup
-DWMGhostHandleGhostMsg
-DWMGhostInitialize
-DWMGhostSetInShutdown

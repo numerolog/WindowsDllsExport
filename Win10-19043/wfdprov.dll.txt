@@ -1,4 +1,0 @@
-WFDProvConfigureAndProvisionDevice
-WFDProvDeinitialize
-WFDProvGetInfo
-WFDProvInitialize

@@ -1,4 +1,0 @@
-AppxSysprepSpecializeOffline
-AppxSysprepSpecializeOnline
-SysprepGeneralize
-SysprepGeneralizeValidate

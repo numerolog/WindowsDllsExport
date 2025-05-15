@@ -1,4 +1,0 @@
-DisplayApphelpDialog
-PcaLaunchApplicationWithConsent
-PcaPersistSettingsAndLaunchApplication
-PcaShowDialog

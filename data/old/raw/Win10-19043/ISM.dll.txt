@@ -1,0 +1,9 @@
+CreateSystemInputHost
+IsSystemInputHostStandalone
+NotifyInputSinkParented
+NotifyInputSinkRemoved
+Register3DCompositor
+RegisterManipulationThread
+SetManipulationInputTarget
+StopAndEndInertia
+Unregister3DCompositor

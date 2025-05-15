@@ -1,6 +1,0 @@
-AppCleanup
-capCreateCaptureWindowA
-capCreateCaptureWindowW
-capGetDriverDescriptionA
-capGetDriverDescriptionW
-videoThunk32

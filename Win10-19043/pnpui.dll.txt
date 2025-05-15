@@ -1,7 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-InstallSecurityPrompt
-InstallSecurityPromptLUA
-InstallSecurityPromptRunDllW
-NotifyDevicesNeedRebootRunDllW
-SimplifiedDINotificationW

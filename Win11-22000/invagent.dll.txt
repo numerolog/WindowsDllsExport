@@ -1,8 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-GetDetailedAppInventoryReport
-GetFileSigningInfoTC
-RunUpdate
-RunUpdateTC

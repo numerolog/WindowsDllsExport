@@ -1,3 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-g_immersiveShellTriageBlock

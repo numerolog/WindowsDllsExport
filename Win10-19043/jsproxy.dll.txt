@@ -1,6 +1,0 @@
-InternetDeInitializeAutoProxyDll
-InternetDeInitializeAutoProxyDllEx
-InternetGetProxyInfo
-InternetGetProxyInfoEx
-InternetInitializeAutoProxyDll
-InternetInitializeAutoProxyDllEx

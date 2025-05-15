@@ -1,2 +1,0 @@
-LpaSvcMain
-SvchostPushServiceGlobals

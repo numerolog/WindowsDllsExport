@@ -1,5 +1,0 @@
-DLLGetDocumentation
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer

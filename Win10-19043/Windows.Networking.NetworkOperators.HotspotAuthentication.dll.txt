@@ -1,5 +1,0 @@
-CleanupHotspotProfiles
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-RegisterHotspotProfile

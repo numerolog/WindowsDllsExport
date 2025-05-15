@@ -1,5 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-EapSimExtCallRunWizard
-EapSimExtGetIdentityPageGuid
-EapSimExtInvokeUIAndGetConfig

@@ -1,4 +1,0 @@
-AiDisableDesktopRpcInterface
-AiEnableDesktopRpcInterface
-ServiceMain
-SvchostPushServiceGlobals

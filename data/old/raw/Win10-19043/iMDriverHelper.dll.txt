@@ -1,0 +1,6 @@
+CancelIoControl
+InitDll
+OnCloseFile
+OnCreateFile
+ProcessIoControl
+UnInitDll

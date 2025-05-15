@@ -1,4 +1,0 @@
-CmLockSvcDeinit
-CmLockSvcInit
-DllCanUnloadNow
-DllGetClassObject

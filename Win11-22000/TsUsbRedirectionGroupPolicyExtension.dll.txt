@@ -1,3 +1,0 @@
-ExecuteProcessGroupPolicyEx
-ExecuteProcessGroupPolicyExWithError
-ProcessGroupPolicyEx

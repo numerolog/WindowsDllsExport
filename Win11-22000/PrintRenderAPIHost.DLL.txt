@@ -1,4 +1,0 @@
-CreatePDFFactory
-CreateXPSToPDFConverter
-DllCanUnloadNow
-DllGetClassObject

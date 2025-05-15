@@ -1,0 +1,7 @@
+BthCollectFingerprintInfo
+BthProcessEventDataDword
+BthProcessEventOccurrence
+BthProcessEventOccurrenceBthaddr
+BthProcessEventOccurrenceResult
+BthProcessEventOccurrenceResultBthaddr
+BthProcessRpalEventOccurrence

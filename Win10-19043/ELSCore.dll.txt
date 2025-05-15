@@ -1,5 +1,0 @@
-MappingDoAction
-MappingFreePropertyBag
-MappingFreeServices
-MappingGetServices
-MappingRecognizeText

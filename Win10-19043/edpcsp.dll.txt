@@ -1,4 +1,0 @@
-CreateAllEdpTasks
-DeleteAllEdpTasks
-DllCanUnloadNow
-DllGetClassObject

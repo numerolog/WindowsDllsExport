@@ -1,2 +1,0 @@
-NtWow64UserConnectHook
-sdwhwin32

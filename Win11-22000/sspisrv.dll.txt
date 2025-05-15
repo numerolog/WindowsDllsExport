@@ -1,5 +1,0 @@
-SspiSrvClientCallback
-SspiSrvInitialize
-SspirAcquireCredentialsHandle
-SspirDeleteSecurityContext
-SspirProcessSecurityContext

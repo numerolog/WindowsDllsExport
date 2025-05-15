@@ -1,0 +1,16 @@
+sgx_calc_quote_size
+sgx_calc_quote_size_
+sgx_check_update_status
+sgx_check_update_status_
+sgx_get_extended_epid_group_id
+sgx_get_extended_epid_group_id_
+sgx_get_quote
+sgx_get_quote_
+sgx_get_quote_size
+sgx_get_quote_size_
+sgx_init_quote
+sgx_init_quote_
+sgx_report_attestation_status
+sgx_report_attestation_status_
+sgx_switch_extended_epid_group
+sgx_switch_extended_epid_group_

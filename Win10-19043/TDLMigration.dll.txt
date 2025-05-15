@@ -1,2 +1,0 @@
-CreateTdlMigrator
-CreateTdlMigratorForUser

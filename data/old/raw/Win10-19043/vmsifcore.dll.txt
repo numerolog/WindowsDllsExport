@@ -1,0 +1,15 @@
+VmsIfCapsFindCapability
+VmsIfCapsGetCapability
+VmsIfCapsInitializeLibrary
+VmsIfCapsIsFeaturePresent
+VmsIfCapsIsFixPresent
+VmsIfCapsQueryCapabilities
+VmsIfDriverClose
+VmsIfDriverOpen
+VmsIfDriverOpenWithFileName
+VmsIfIoEnumeratorExecuteEx
+VmsIfIoEnumeratorPrepareEx
+VmsIfIoExecuteEx
+VmsIfIoFinalize
+VmsIfIoPrepareEx
+VmsIfMemFree

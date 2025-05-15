@@ -1,6 +1,0 @@
-CloseNetSvcsObject
-CloseTcpIpPerformanceData
-CollectNetSvcsObjectData
-CollectTcpIpPerformanceData
-OpenNetSvcsObject
-OpenTcpIpPerformanceData

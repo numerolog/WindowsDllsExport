@@ -1,3 +1,0 @@
-DllInstall
-NtVdm64CreateProcessInternalW
-NtVdm64RaiseInvalid16BitError

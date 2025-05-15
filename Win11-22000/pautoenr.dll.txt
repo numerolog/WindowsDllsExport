@@ -1,3 +1,0 @@
-CertAutoEnrollment
-CertAutoRemove
-DimsProvEntry

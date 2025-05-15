@@ -1,5 +1,0 @@
-DeserializeLANPolicy
-GenerateLANPolicy
-LANGPADeInit
-LANGPAInit
-ProcessLANPolicyEx

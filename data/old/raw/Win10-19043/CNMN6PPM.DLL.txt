@@ -1,0 +1,8 @@
+BJNPExtFunction
+InitializeBJNPAP
+InitializePrintMonitor2
+InitializeScanMonitor
+InitializeScanUtility
+UninitializeBJNPAP
+UninitializeScanMonitor
+UninitializeScanUtility

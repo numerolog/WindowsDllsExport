@@ -1,4 +1,0 @@
-CreateEditBufferTestHook
-CreateEditBufferTestHookClient
-EnableTestHook
-GetTestHookEnabled

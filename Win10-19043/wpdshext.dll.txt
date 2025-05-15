@@ -1,5 +1,0 @@
-CDefFolderMenu_MergeMenu
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer

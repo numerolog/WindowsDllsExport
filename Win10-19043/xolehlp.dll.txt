@@ -1,8 +1,0 @@
-DtcGetTransactionManager
-DtcGetTransactionManagerC
-DtcGetTransactionManagerEx
-DtcGetTransactionManagerExA
-DtcGetTransactionManagerExW
-FreezeLocalTransactionManagers
-GetDtcLocaleResourceHandle
-ThawLocalTransactionManagers

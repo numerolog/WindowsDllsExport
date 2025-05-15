@@ -1,3 +1,0 @@
-GetKeyProtectionInterface
-KeyFileProtectSessionTicket
-KeyFileUnprotectSessionTicket

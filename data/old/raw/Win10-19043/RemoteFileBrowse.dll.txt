@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllGetClassObject
+GetFileName
+GetFileNameAsUser
+GetFolderPath
+GetFolderPathAsUser
+GetSaveAsFileName
+GetSaveAsFileNameAsUser

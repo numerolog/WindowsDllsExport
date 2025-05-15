@@ -1,4 +1,0 @@
-GenerateGroupPolicy
-GenerateGroupPolicyCap
-ProcessGroupPolicyEx
-ProcessGroupPolicyExCap

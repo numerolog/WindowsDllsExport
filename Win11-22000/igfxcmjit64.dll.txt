@@ -1,4 +1,0 @@
-JITCompile
-JITCompileWithRelocation
-freeBlock
-getJITVersion

@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-NetSetupCreateBindingMap
-NetSetupExportDatabase
-NetSetupResetBindings
-NetSetupShimExecuteInfSection

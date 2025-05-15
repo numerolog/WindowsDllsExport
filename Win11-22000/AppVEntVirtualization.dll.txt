@@ -1,4 +1,0 @@
-Deinitialize
-GetComponent
-Initialize
-InitializeISV

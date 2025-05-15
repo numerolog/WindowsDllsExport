@@ -1,4 +1,0 @@
-ClosePerformanceData
-CollectPerformanceData
-OpenPerformanceData
-TraceServiceStart

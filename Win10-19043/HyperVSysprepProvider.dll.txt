@@ -1,3 +1,0 @@
-HyperVGeneralize
-HyperVSpecializeOffline
-HyperVSpecializeOnline

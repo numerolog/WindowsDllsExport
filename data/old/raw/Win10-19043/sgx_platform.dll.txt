@@ -1,0 +1,10 @@
+close_session_ocall
+close_session_ocall_
+create_session_ocall
+create_session_ocall_
+exchange_report_ocall
+exchange_report_ocall_
+invoke_service_ocall
+invoke_service_ocall_
+sgx_get_ps_cap
+sgx_get_ps_cap_

@@ -1,4 +1,0 @@
-CMConfig
-CMConfigEx
-CmstpExtensionProc
-CmstpExtensionProc2

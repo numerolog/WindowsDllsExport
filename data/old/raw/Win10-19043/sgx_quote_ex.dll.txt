@@ -1,0 +1,12 @@
+sgx_get_quote_ex
+sgx_get_quote_ex_
+sgx_get_quote_size_ex
+sgx_get_quote_size_ex_
+sgx_get_supported_att_key_id_num
+sgx_get_supported_att_key_id_num_
+sgx_get_supported_att_key_ids
+sgx_get_supported_att_key_ids_
+sgx_init_quote_ex
+sgx_init_quote_ex_
+sgx_select_att_key_id
+sgx_select_att_key_id_

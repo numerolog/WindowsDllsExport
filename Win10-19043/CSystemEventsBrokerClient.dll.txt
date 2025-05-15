@@ -1,6 +1,0 @@
-CSebCreateCustomEvent
-CSebCreatePrivateEvent
-CSebCreateWellKnownEvent
-CSebDeleteEvent
-CSebEnumerateEvents
-CSebQueryEventData

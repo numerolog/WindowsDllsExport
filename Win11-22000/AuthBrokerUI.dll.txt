@@ -1,9 +1,0 @@
-CreateWndMgmt
-DirectUIInitProc
-DirectUIInitThread
-DirectUIUnInitProc
-DirectUIUnInitThread
-FreeWndMgmt
-WabCreateWebRuntimeCoreControl
-WabCreateWebRuntimeCoreVisualViewport
-WabImmDisableLegacyIME

@@ -1,0 +1,4 @@
+CreateSpatialObjectDDIClientFactory
+DllMain
+PerceptionDeviceCreateFactory
+PerceptionDeviceSetCreateFactoryOverride

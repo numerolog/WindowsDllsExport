@@ -1,0 +1,11 @@
+DllCanUnloadNow
+DllCancelAuthentication
+DllDeleteSavedCreds
+DllGetClaimsToken
+DllGetClassObject
+DllGetTscCtlVer
+DllLogoffClaimsToken
+DllRegisterServer
+DllSetAuthProperties
+DllSetClaimsToken
+DllUnregisterServer

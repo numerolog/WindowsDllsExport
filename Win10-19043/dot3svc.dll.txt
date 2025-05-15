@@ -1,4 +1,0 @@
-Dot3SvcMain
-LanNotifyOnLogoff
-LanNotifyOnLogon
-SvchostPushServiceGlobals

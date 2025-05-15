@@ -1,3 +1,0 @@
-LicenseProtectionPbrReset
-RegisterLicenseKeyWithExpiration
-ValidateLicenseKeyProtection

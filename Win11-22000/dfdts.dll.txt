@@ -1,4 +1,0 @@
-DfdGetDefaultPolicyAndSMART
-WdiDiagnosticModuleMain
-WdiGetDiagnosticModuleInterfaceVersion
-WdiHandleInstance

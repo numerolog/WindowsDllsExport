@@ -1,5 +1,0 @@
-CdeGetProfileList
-CdeQueryParameter
-CdeSetParameter
-SvchostPushServiceGlobals
-WcmSvcMain

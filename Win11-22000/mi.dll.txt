@@ -1,2 +1,0 @@
-MI_Application_InitializeV1
-mi_clientFT_V1

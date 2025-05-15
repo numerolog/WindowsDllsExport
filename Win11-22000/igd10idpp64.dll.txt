@@ -1,6 +1,0 @@
-DPPShimDLLCheckPluginDLL
-DPPShimDLLCreateNotification
-DPPShimDLLDestroyIntermediateResources
-DPPShimDLLInitialize
-DPPShimDLLPresentNotification
-DPPShimDLLUnInitialize

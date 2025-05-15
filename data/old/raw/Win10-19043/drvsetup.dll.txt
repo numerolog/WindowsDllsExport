@@ -1,0 +1,5 @@
+DrvSetupInstallDriver
+DrvSetupInstallWuDriver
+DrvSetupUninstallDriver
+DrvSetupUninstallWuDrivers
+pDrvSetupUninstallDriver

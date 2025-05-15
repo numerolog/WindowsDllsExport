@@ -1,6 +1,0 @@
-CreateInputMethodClient
-CreateKeyEventProcessor
-InitializeService
-ServiceMain
-SvchostPushServiceGlobals
-UninitializeService

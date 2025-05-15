@@ -1,8 +1,0 @@
-EseShadowCreateShadow
-EseShadowCreateSimpleShadow
-EseShadowInit
-EseShadowMountShadow
-EseShadowMountSimpleShadow
-EseShadowPurgeShadow
-EseShadowTerm
-VssIdToString

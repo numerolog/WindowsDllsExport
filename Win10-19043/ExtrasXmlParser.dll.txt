@@ -1,3 +1,0 @@
-ParseExtrasXmlForExtensionInfo
-ParseExtrasXmlForNabSyncExtensionInfo
-ParseExtrasXmlForSmsInterceptExtensionInfo

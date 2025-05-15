@@ -1,5 +1,0 @@
-GetNTStatusSymbolicName
-GetNdisOidSymbolicName
-GetNdisSymbolicName
-GetNetEventSymbolicName
-GetWinErrorSymbolicName

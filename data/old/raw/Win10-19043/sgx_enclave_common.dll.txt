@@ -1,0 +1,12 @@
+enclave_create
+enclave_create_
+enclave_delete
+enclave_delete_
+enclave_get_information
+enclave_get_information_
+enclave_initialize
+enclave_initialize_
+enclave_load_data
+enclave_load_data_
+enclave_set_information
+enclave_set_information_

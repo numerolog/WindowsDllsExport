@@ -1,7 +1,0 @@
-CompileEffectDescription
-CreateCrossfadeEffectFactory
-CreateEffectDescription
-CreateInternalWallpaperBrush
-CrossFadeToNewBrush
-DeserializeEffectDescription
-SerializeEffectDescription

@@ -1,4 +1,0 @@
-DllMain
-ServiceMain
-StartMaintenance
-SvchostPushServiceGlobals

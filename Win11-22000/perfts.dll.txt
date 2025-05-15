@@ -1,6 +1,0 @@
-CloseLagPerfData
-CloseTSObject
-CollectLagPerfData
-CollectTSObjectData
-OpenLagPerfData
-OpenTSObject

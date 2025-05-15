@@ -1,8 +1,0 @@
-IntelSstPreProcApiVersion
-IntelSstPreProcGetConfig
-IntelSstPreProcGetSize
-IntelSstPreProcGetVersion
-IntelSstPreProcInitialize
-IntelSstPreProcProcess
-IntelSstPreProcRelease
-IntelSstPreProcSetConfig

@@ -1,4 +1,0 @@
-CreateCmtStoreObject
-CreateParserObject
-DllCanUnloadNow
-DllGetClassObject

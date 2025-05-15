@@ -1,0 +1,12 @@
+DllCanUnloadNow
+DllGetClassObject
+GetDefaultConfiguration
+GetNextAcceptableTime
+GetNextAcceptableTimeEx
+GetSmartActiveHours
+GetSmartActiveHoursEx
+GetSmartBusyCheckVelocityFeature
+GetTimeIntervalConfidence
+GetUserActivityPredictionEx
+ServiceMain
+SvchostPushServiceGlobals

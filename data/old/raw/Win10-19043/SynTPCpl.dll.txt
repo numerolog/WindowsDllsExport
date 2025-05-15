@@ -1,0 +1,6 @@
+DllCanUnloadNow
+DllGetClassObject
+DllGetVersion
+DllRegisterServer
+ShowDevicePropPage
+SynCplSettings

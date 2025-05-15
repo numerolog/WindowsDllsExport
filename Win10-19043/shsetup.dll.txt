@@ -1,5 +1,0 @@
-SHUnattendedSetup
-SHUnattendedSetupA
-SHUnattendedSetupW
-Sysprep_Cleanup_Shell
-Sysprep_Generalize_Shell

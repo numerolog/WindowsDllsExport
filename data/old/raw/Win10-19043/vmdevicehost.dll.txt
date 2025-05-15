@@ -1,0 +1,14 @@
+HdvCreateDeviceInstance
+HdvCreateGuestMemoryAperture
+HdvDeliverGuestInterrupt
+HdvDestroyGuestMemoryAperture
+HdvInitializeDeviceHost
+HdvInitializeDeviceHostForProxy
+HdvProxyDeviceHost
+HdvReadGuestMemory
+HdvRegisterDoorbell
+HdvRegisterDoorbellPage
+HdvTeardownDeviceHost
+HdvUnregisterDoorbell
+HdvUnregisterDoorbellPage
+HdvWriteGuestMemory

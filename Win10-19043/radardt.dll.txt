@@ -1,5 +1,0 @@
-RdrSysprepSpecialize
-RdrSysprepSpecializeOffline
-WdiDiagnosticModuleMain
-WdiGetDiagnosticModuleInterfaceVersion
-WdiHandleInstance

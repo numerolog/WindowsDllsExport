@@ -1,4 +1,0 @@
-GenerateScriptsGroupPolicy
-ProcessScriptsGroupPolicy
-ProcessScriptsGroupPolicyEx
-ScrRegGPOListToWbem

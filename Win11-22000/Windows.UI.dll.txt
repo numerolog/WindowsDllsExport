@@ -1,7 +1,0 @@
-CreateControlInput
-CreateControlInputEx
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer

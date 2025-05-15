@@ -1,3 +1,0 @@
-GetPKeyData
-PidGenX
-PidGenX2

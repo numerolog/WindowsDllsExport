@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-NgcIsoCtnrInitialize
-NgcIsoCtnrInitializePregenPool
-NgcIsoCtnrTriggerPregen
-NgcIsoCtnrUninitializePregenPool

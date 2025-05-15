@@ -1,4 +1,0 @@
-CreateVirtualInputManager
-CreateVirtualTouchPad
-DllCanUnloadNow
-DllGetClassObject

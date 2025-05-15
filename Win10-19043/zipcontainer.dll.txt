@@ -1,4 +1,0 @@
-CreateFileStream
-ZipContainerCreateArchiveOnFile
-ZipContainerInitialize
-ZipContainerUninitialize

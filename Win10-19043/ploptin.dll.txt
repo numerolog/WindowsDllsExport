@@ -1,7 +1,0 @@
-DeleteApplicationEligibilityForPrelaunch
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-IsApplicationEligibleForPrelaunch
-IsApplicationOptedOutOfPrelaunch
-RecordApplicationEligibilityForPrelaunch

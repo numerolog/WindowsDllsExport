@@ -1,3 +1,0 @@
-DecodeReadResBDeinit
-DecodeReadResBInit
-EnumerateResBStrings

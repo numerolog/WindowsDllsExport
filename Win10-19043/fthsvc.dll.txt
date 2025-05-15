@@ -1,5 +1,0 @@
-FthSysprepSpecialize
-FthSysprepSpecializeOffline
-WdiDiagnosticModuleMain
-WdiGetDiagnosticModuleInterfaceVersion
-WdiHandleInstance

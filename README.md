@@ -6,13 +6,30 @@ The idea is to find some interesting export that can be used to evade some detec
 The list was extracted from the following builds:
 
 ```
+(new dumper version)
+Windows XP Build 2600 x86
+
+(previous dumper version)
 Windows 10 Build 19043
 Windows 11 Build 22000
 ```
 
 # Generate The List By Yourself
 
+(new dumper version)
+
+DUMPEXPO.c can be compiled and run locally (on linux we can use build.sh).
+
+DUMPEXPO.exe can be used to gather the information on your system.
+
+```
+C:\DUMPER> PERFDUMP.BAT
+```
+
+(previous dumper version)
+
 DumpExport.c can be compiled and run locally.
+
 DumpExport.exe can be used to gather the information on your system.
 
 ```

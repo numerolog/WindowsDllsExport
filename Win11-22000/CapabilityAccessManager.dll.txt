@@ -1,4 +1,0 @@
-CapabilityAccessManagerDoStoreMaintenance
-DllCanUnloadNow
-DllGetClassObject
-ServiceMain

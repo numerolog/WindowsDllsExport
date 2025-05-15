@@ -1,9 +1,0 @@
-AuthenticateFactor
-EnrollFactor
-FinalizeFactor
-GetFactorInfo
-InitializeFactor
-IsEnrolled
-ResetFactor
-SetFactorTrust
-UnenrollFactor

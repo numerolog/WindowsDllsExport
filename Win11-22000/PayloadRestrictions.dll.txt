@@ -1,3 +1,0 @@
-MitLibInitialize
-MitLibQueryMitigations
-MitLibUninitialize

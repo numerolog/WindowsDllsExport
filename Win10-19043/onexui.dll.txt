@@ -1,4 +1,0 @@
-OneXGetUserFriendlyText
-OneXMapEAPHostInteractiveUIToOneXUIResponse
-OneXShowUI
-OneXShowUIFromEAPCreds

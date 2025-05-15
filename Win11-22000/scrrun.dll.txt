@@ -1,6 +1,0 @@
-DLLGetDocumentation
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-DoOpenPipeStream

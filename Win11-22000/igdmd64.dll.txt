@@ -1,5 +1,0 @@
-CloseMetricsDevice
-ClosePerformanceInterface
-OpenMetricsDevice
-OpenMetricsDeviceFromFile
-OpenPerformanceInterface

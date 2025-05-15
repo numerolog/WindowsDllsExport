@@ -1,6 +1,0 @@
-BootstrapReleaseUnusedResources
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-MSPRMFDllCanUnloadNow
-MSPRMFGetClassObject

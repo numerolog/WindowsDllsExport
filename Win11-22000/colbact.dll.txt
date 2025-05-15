@@ -1,7 +1,0 @@
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-GetClassInfoForCurrentUser
-GetDefaultPartitionForCurrentUser
-GetDefaultPartitionForSid
-PartitionAccessCheck

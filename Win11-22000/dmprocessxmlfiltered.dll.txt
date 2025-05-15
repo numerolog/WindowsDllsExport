@@ -1,3 +1,0 @@
-DMProcessConfigXML
-DMProcessConfigXMLFiltered
-MdmProcessConfigXmlWithAttributes

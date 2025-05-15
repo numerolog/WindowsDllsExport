@@ -1,2 +1,0 @@
-InitializeQec
-UninitializeQec

@@ -1,4 +1,0 @@
-CreateManifestDocumentFromDocument
-CreateManifestDocumentFromFile
-CreateManifestDocumentFromXML
-GetManifestSelectionNamespaces

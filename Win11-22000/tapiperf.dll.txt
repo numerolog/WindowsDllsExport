@@ -1,3 +1,0 @@
-CloseTapiPerformanceData
-CollectTapiPerformanceData
-OpenTapiPerformanceData

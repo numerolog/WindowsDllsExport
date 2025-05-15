@@ -1,5 +1,0 @@
-CreateDCOMSecurityUIPage
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer

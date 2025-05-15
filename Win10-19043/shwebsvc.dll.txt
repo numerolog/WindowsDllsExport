@@ -1,4 +1,0 @@
-AddNetPlaceRunDll
-DllCanUnloadNow
-DllGetClassObject
-PublishRunDll

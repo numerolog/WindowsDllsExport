@@ -1,2 +1,0 @@
-SVCServiceMain
-SvchostPushServiceGlobals

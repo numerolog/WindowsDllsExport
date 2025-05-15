@@ -1,6 +1,0 @@
-CreateMessagePortEventDispatcher
-CreateServiceWorkerClientMessageDispatcher
-CreateWebRuntimeFactory
-CreateWebRuntimeNotificationFromEventArg
-DllGetActivationFactory
-EnsureServiceWorkerManagerComponent

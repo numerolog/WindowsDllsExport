@@ -1,0 +1,11 @@
+EngHostAttest
+EngHostCreateAttestationClient
+EngHostDestroyAttestationClient
+EngHostDispatchThread
+EngHostGetRuntimeReport
+EngHostGetSessionCertificate
+EngHostGetSessionReport
+EngHostInitialize
+EngHostNotify
+EngHostReinitialize
+EngHostShutdown

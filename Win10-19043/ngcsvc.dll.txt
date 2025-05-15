@@ -1,2 +1,0 @@
-NgcServiceMain
-SvchostPushServiceGlobals

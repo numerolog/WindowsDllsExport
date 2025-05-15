@@ -1,4 +1,0 @@
-DiskCleanupEnd
-DiskCleanupStart
-GetCommonAttributes
-GetPropertyAlloc

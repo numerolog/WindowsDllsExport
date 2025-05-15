@@ -1,5 +1,0 @@
-AllocateVmWorkerProcessCapabilities
-CreateVmWorkerProcessToken
-FreeWorkerProcessCapabilities
-GetAppContainerName
-GetVmWorkerProcess

@@ -1,6 +1,0 @@
-AuthzGetAccountType
-AuthzRequestTicketWithWindow
-AuthzRequestTicketWithoutWindow
-GetAccountType
-RequestTicketWithWindow
-RequestTicketWithoutWindow
