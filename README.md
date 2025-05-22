@@ -1,4 +1,4 @@
-# WindowsDllsExport
+# DUMPEXPO.EXE (WindowsDllsExport)
 A list of all the DLLs export in C:\windows\system32\
 
 The idea is to find some interesting export that can be used to evade some detection.
