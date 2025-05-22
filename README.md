@@ -1,4 +1,4 @@
-# DUMPEXPO.EXE (WindowsDllsExport)
+# DUMPEXPO.EXE (Mr-Un1k0d3r/WindowsDllsExport)
 A list of all the DLLs export in C:\windows\system32\
 
 The idea is to find some interesting export that can be used to evade some detection.
@@ -60,5 +60,5 @@ The `sqlite_web` interface can be queried as shown below
 
 A json file is also available `exports.json`
 
-# Credit
+# Original authors
 Mr.Un1k0d3r RingZer0 Team
